@@ -18,7 +18,7 @@
 ## Семестр 3
 Основные дисциплины семестра: ПнаЯВУ, ПнаЯА.
 ### ПнаЯВУ
-Лабораторные работы: https://github.com/Qurcaivel/PiHLL-CPP
+Лабораторные работы: [тык](https://github.com/Qurcaivel/PiHLL-CPP).
 
 Ожидаются:
 - курсовой проект;
@@ -29,12 +29,12 @@
 ## Семестр 4
 Основные дисциплины семестра: ПнаЯВУ, ОСиСП, АПК.
 ### ПнаЯВУ
-Лабораторные работы: https://github.com/Qurcaivel/PiHLL
+Лабораторные работы: [тык](https://github.com/Qurcaivel/PiHLL-JAVA).
 ### ОСиСП
-Лабораторные работы: https://github.com/Qurcaivel/OS-SP
+Лабораторные работы: [тык](https://github.com/Qurcaivel/OS-SP).
 
 Ожидаются:
 - курсовой проект;
 - пояснительная записка к курсовому проекту.
 ### АПК
-Лабораторные работы: https://github.com/Qurcaivel/PCA
+Лабораторные работы: [тык](https://github.com/Qurcaivel/PCA).
