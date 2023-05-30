@@ -31,6 +31,7 @@
 https://github.com/Qurcaivel/PiHLL
 ### ОСиСП
 https://github.com/Qurcaivel/OS-SP
+
 Ожидаются:
 - курсовой проект;
 - пояснительная записка к курсовому проекту.
