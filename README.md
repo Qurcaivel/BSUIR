@@ -25,9 +25,9 @@
 ### ОСиСП
 Лабораторные работы: [тык](https://github.com/Qurcaivel/OS-SP).
 
-Курсовой проект: [тык](https://github.com/Qurcaivel/usbkeyboard).
+Курсовой проект: [тык](https://github.com/Qurcaivel/OS-SP-CW).
 
-Ожидаются:
-- пояснительная записка к курсовому проекту.
+Исходный код курсового проекта без пояснительной записки: [тык](https://github.com/Qurcaivel/usbkeyboard).
+
 ### АПК
 Лабораторные работы: [тык](https://github.com/Qurcaivel/PCA).
